@@ -1,2 +1,5 @@
 # RefugeCoin
-RefugeCoin
+THE REFUGEE CRISIS IS OUT OF CONTROL – “PROBLEM” 
+Every Day, Thousands Of People Are Forced To Either Leave Their Homes Because Of War, Poverty, Violence Or Just Because They're Looking For A Better Lifetime. A Total Sum Of 258 Million People Is Trying To Change Their Place Of Residence For A Better Tomorrow. A Lot Of Grands, Funds Etc. Are Traded To Solve The Problem. Thus, The Question Arises. Is This Volume Of Money Directed Where It Should Be Traded? 
+WHAT WE WANT TO DO – “SOLUTION” 
+We Believe In The Blockchain Technology. Also We Believe That With The  Blockchain We Can Provide Answers And Solutions To This Huge Problem. We Are Building A Blockchain Technology Platform For Refugees' Projects. This Platform Is Accessed Through RefugeCoin, A Cryptocurrency Token Based Upon Ethereum Which Allows The Holder To Nominate And Fund These Projects. Users (Refugees) Of The Platform May Have Direct Access To The Funds (Through Ethereum) For Which They Are Intended By The Agencies Simply By Opening A Wallet. In This Way, We Give The Possibility For Refugees To Have Access, Through The RefugeCoin, To Basic Necessities, Pharmaceuticals, Water Etc. In This Way We Are Developing An Ecosystem That Empowers Refugees Through Financial Inclusion.
