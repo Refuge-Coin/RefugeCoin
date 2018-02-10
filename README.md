@@ -1,0 +1,2 @@
+# RefugeCoin
+RefugeCoin
